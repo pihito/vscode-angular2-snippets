@@ -6,7 +6,7 @@
       "import { Component, OnInit } from '@angular/core';",
       "",
       "@Component({",
-      "\tmoduleId: module.id,",
+      "\tmoduleId: __moduleName,",
       "\tselector: '${selector}',",
       "\ttemplateUrl: '${name}.component.html'",
       "})",
